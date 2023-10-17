@@ -1,0 +1,4 @@
+#Tue Oct 10 16:18:16 MYT 2023
+base.0=/Users/hero4-3/Documents/GitHub/location/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
